@@ -1,0 +1,77 @@
+.container{
+  margin-bottom: 100px;
+}
+
+.bg-color{
+    background-color:#f5d8d4;
+    border-radius: 20px;
+    color: crimson;
+    padding :30px 40px;
+  }
+   
+.btn{
+    color: darkred;
+    border:none;
+    background-image: linear-gradient(rgb(219, 150, 161),rgb(116, 216, 216));
+    padding:20px 25px;
+    border-radius: 50px;
+   
+}
+h1{
+  letter-spacing: 5px;
+}
+div .card-title{
+  color: rgb(108, 148, 125);
+  text-shadow: 2px 2px 5px rgb(235, 15, 26);
+  font-variant: small-caps;
+}
+div.card{
+ background-color: rgb(201, 233, 204);
+  box-shadow:5px 5px 10px rgb(126, 128, 123);
+  border-radius: 30px;
+  border:none ;
+}
+div.card-footer{
+  border: none;
+}
+.last-sec{
+  margin: 20px auto;
+  padding: 50px 50px;
+ border:none;
+ background-color: thistle;
+ border-radius: 10px;
+ height: 300px;
+
+}
+input{
+  border:none;
+  border-radius: 50px;
+}
+footer{
+  text-align: center;
+}
+
+.img1{
+  
+   background-color: rgb(65, 231, 231);
+}
+.img2{
+  background-color: tomato;
+}
+.img3{
+  background-color: rgb(235, 232, 66);
+}
+.img1, .img2, .img3{
+  padding: 20px 30px;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+.catagories img{
+  width: 150px;
+}
+
+
+
+
+  
+
